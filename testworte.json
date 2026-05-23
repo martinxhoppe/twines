@@ -1,1 +1,1033 @@
-C:/Users/VIDEOSTATION/Documents/Twine/Scratch/testworte.json
+[
+  {
+    "istEinstellung": true,
+    "standardMinuten": 0.25,
+    "streakAnzahl": 10,
+    "streakBonus": 1.5,
+    "tippsImmerAnzeigen": false
+  },
+  {
+    "richtig": "Mitte",
+    "falsch": ["Mite"],
+    "tipp": "Nach dem kurzen i hören wir ein doppeltes t."
+  },
+  {
+    "richtig": "soll",
+    "falsch": ["sol"],
+    "tipp": "Das o wird ganz kurz gesprochen, danach folgen zwei l."
+  },
+  {
+    "richtig": "Sonne",
+    "falsch": ["Sone"],
+    "tipp": "Hör genau hin: Das o ist kurz, also schreiben wir nn."
+  },
+  {
+    "richtig": "Wasser",
+    "falsch": ["Waser", "Wassa"],
+    "tipp": "Nach einem kurzen Vokal like dem a verdoppeln wir das s zu ss."
+  },
+  {
+    "richtig": "rennen",
+    "falsch": ["renen"],
+    "tipp": "Das e ist kurz und knackig – danach kommen zwei n."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "Kette",
+    "falsch": ["Kete", "Kätte"],
+    "tipp": "Kurzes e bedeutet: Wir brauchen ein doppeltes t."
+  },
+  {
+    "richtig": "Kissen",
+    "falsch": ["Kisen"],
+    "tipp": "Das i wird ganz kurz gesprochen, deshalb schreiben wir ss."
+  },
+  {
+    "richtig": "Suppe",
+    "falsch": ["Supe"],
+    "tipp": "Das u wird kurz gesprochen -> Doppel-p."
+  },
+  {
+    "richtig": "wollen",
+    "falsch": ["wolen"],
+    "tipp": "Nach dem kurzen o verdoppeln wir das l zu ll."
+  },
+  {
+    "richtig": "brennen",
+    "falsch": ["brenen"],
+    "tipp": "Das e wird kurz gesprochen, also schreiben wir zwei n."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "voll",
+    "falsch": ["vol", "foll"],
+    "tipp": "Merke dir das Vogel-V am Anfang und das Doppel-l am Ende!"
+  },
+  {
+    "richtig": "hoffen",
+    "falsch": ["hofen"],
+    "tipp": "Das o wird kurz und schnell gesprochen -> Doppel-f."
+  },
+  {
+    "richtig": "Löffel",
+    "falsch": ["Löfel"],
+    "tipp": "Nach dem kurzen ö folgen immer zwei f."
+  },
+  {
+    "richtig": "Zimmer",
+    "falsch": ["Zimer"],
+    "tipp": "Ein kurzes i verlangt danach zwei m."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "pfeifen",
+    "falsch": ["feifen", "pfaifen"],
+    "tipp": "Denk an das schwierige Pf am Anfang und das ei in der Mitte."
+  },
+  {
+    "richtig": "klettern",
+    "falsch": ["kletern"],
+    "tipp": "Das e ist kurz, deshalb schreiben wir zwei t."
+  },
+  {
+    "richtig": "Donner",
+    "falsch": ["Doner"],
+    "tipp": "Kurzes o verdoppelt das n zu nn."
+  },
+  {
+    "richtig": "wissen",
+    "falsch": ["wisen"],
+    "tipp": "Ich weiß, aber wir wissen. Das i ist kurz, also ss."
+  },
+  {
+    "richtig": "Gewitter",
+    "falsch": ["Gewiter"],
+    "tipp": "Das i ist kurz und kräftig – danach kommen zwei t."
+  },
+  {
+    "richtig": "Sattel",
+    "falsch": ["Satel"],
+    "tipp": "Nach dem kurzen a folgen zwei t."
+  },
+  {
+    "richtig": "Fluss",
+    "falsch": ["Flus"],
+    "tipp": "Das u wird ganz kurz gesprochen, also schreiben wir ss."
+  },
+  {
+    "richtig": "Schluss",
+    "falsch": ["Schlus"],
+    "tipp": "Auch hier ist das u kurz -> Doppel-s am Ende."
+  },
+  {
+    "richtig": "passen",
+    "falsch": ["pasen"],
+    "tipp": "Das a wird kurz gesprochen, deshalb zwei s."
+  },
+  {
+    "richtig": "fassen",
+    "falsch": ["fasen"],
+    "tipp": "Nach dem kurzen a verdoppeln wir das s zu ss."
+  },
+  {
+    "richtig": "müssen",
+    "falsch": ["müsen"],
+    "tipp": "Das ü wird kurz und knackig gesprochen -> Doppel-s."
+  },
+  {
+    "richtig": "küssen",
+    "falsch": ["küsen"],
+    "tipp": "Kurzes ü bedeutet: Danach schreiben wir zwei s."
+  },
+  {
+    "richtig": "füttern",
+    "falsch": ["fütern", "füttan"],
+    "tipp": "Das ü wird kurz gesprochen, gefolgt von zwei t."
+  },
+  {
+    "richtig": "schaffen",
+    "falsch": ["schafen"],
+    "tipp": "Achtung! 'schafen' gibt es nicht. Bei 'schaffen' ist das a kurz, also ff."
+  },
+  {
+    "richtig": "gellender",
+    "falsch": ["gelender"],
+    "tipp": "Ein gellender Schrei hat ein kurzes e, also ll.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "knallen",
+    "falsch": ["knalen"],
+    "tipp": "Das a wird kurz gesprochen -> zwei l."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "Geländer",
+    "falsch": ["Gelender"],
+    "tipp": "Eselsbrücke: Am Geländer kann man bei einem Sturz landen."
+  },
+  {
+    "richtig": "hell",
+    "falsch": ["hel", "häll"],
+    "tipp": "Das e ist kurz und knackig, am Ende stehen zwei l."
+  },
+  {
+    "richtig": "schnell",
+    "falsch": ["schnel", "schnäll"],
+    "tipp": "Auch hier ist das e kurz, also Doppel-l am Ende."
+  },
+  {
+    "richtig": "fallen",
+    "falsch": ["falen"],
+    "tipp": "Das a wird kurz gesprochen, danach folgen zwei l."
+  },
+  {
+    "richtig": "rollen",
+    "falsch": ["rolen"],
+    "tipp": "Nach dem kurzen o verdoppeln wir das l zu ll."
+  },
+  {
+    "richtig": "trollen",
+    "falsch": ["trolen"],
+    "tipp": "Kurzes o verlangt nach einem doppelten l."
+  },
+  {
+    "richtig": "schmollend",
+    "falsch": ["schmolend"],
+    "tipp": "Das o ist kurz, also schreiben wir zwei l."
+  },
+  {
+    "richtig": "bellen",
+    "falsch": ["belen"],
+    "tipp": "Der Hund bellt. Das e ist kurz -> Doppel-l."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "Versteck",
+    "falsch": ["Verstek", "Värstäck", "Verstäck"],
+    "tipp": "Nach einem kurzen e schreiben wir ck, niemals k allein."
+  },
+  {
+    "richtig": "Schnecke",
+    "falsch": ["Schneke", "Schnäcke"],
+    "tipp": "Das e ist kurz, also sichern wir es mit ck ab."
+  },
+  {
+    "richtig": "blicken",
+    "falsch": ["bliken"],
+    "tipp": "Nach einem kurz gesprochenen i folgt immer ck."
+  },
+  {
+    "richtig": "drücken",
+    "falsch": ["drüken"],
+    "tipp": "Das ü wird kurz gesprochen -> ck."
+  },
+  {
+    "richtig": "Zucker",
+    "falsch": ["Zuker"],
+    "tipp": "Das u ist kurz und knackig, danach schreiben wir ck."
+  },
+  {
+    "richtig": "Socke",
+    "falsch": ["Soke"],
+    "tipp": "Kurzes o bedeutet: Danach folgt ein ck."
+  },
+  {
+    "richtig": "Glück",
+    "falsch": ["Glük"],
+    "tipp": "Das ü wird ganz kurz gesprochen -> ck am Ende."
+  },
+  {
+    "richtig": "Brücke",
+    "falsch": ["Brüke"],
+    "tipp": "Nach dem kurzen ü verdoppeln wir den Mitlaut zu ck."
+  },
+  {
+    "richtig": "Mücke",
+    "falsch": ["Müke"],
+    "tipp": "Das ü wird kurz gesprochen, also schreiben wir ck."
+  },
+  {
+    "richtig": "erschrecken",
+    "falsch": ["erschreken", "ärschrecken", "ärschräcken", "ärschräckän"],
+    "tipp": "Das e ist kurz – merk dir das ck nach dem e."
+  },
+  {
+    "richtig": "Zicke",
+    "falsch": ["Zike"],
+    "tipp": "Kurzes i verlangt nach einem ck."
+  },
+  {
+    "richtig": "packen",
+    "falsch": ["paken"],
+    "tipp": "Das a wird kurz gesprochen -> ck."
+  },
+  {
+    "richtig": "decken",
+    "falsch": ["deken"],
+    "tipp": "Nach einem kurzen e schreiben wir immer ck."
+  },
+  {
+    "richtig": "Bäcker",
+    "falsch": ["Bäker"],
+    "tipp": "Kommt von 'backen' und behält das kurze Geräusch -> ck.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "trocken",
+    "falsch": ["troken"],
+    "tipp": "Das o wird kurz gesprochen, also folgt ck."
+  },
+  {
+    "richtig": "schmecken",
+    "falsch": ["schmeken", "schmäcken"],
+    "tipp": "Kurzes e bedeutet: Danach schreiben wir ck."
+  },
+  {
+    "richtig": "stecken",
+    "falsch": ["steken"],
+    "tipp": "Das e wird kurz gesprochen -> ck."
+  },
+  {
+    "richtig": "knicken",
+    "falsch": ["kniken"],
+    "tipp": "Nach dem kurzen i folgt ein ck."
+  },
+  {
+    "richtig": "schreiten",
+    "falsch": ["schreuten"],
+    "tipp": "Hör genau hin: Wir sprechen ein ei, kein eu."
+  },
+  {
+    "richtig": "gleiten",
+    "falsch": ["gleuten"],
+    "tipp": "Das Wort wird mit ei geschrieben."
+  },
+  {
+    "richtig": "Kreide",
+    "falsch": ["Kreude", "Kraide"],
+    "tipp": "Man spricht ei, also schreiben wir auch ei."
+  },
+  {
+    "richtig": "schweigen",
+    "falsch": ["schwaigen"],
+    "tipp": "Gibt es da eine Regel? Hmmmm..."
+  },
+  {
+    "richtig": "Kaiser",
+    "falsch": ["Keiser", "Kaisa"],
+    "tipp": "Ein ganz besonderes Wort: Der Kaiser wird mit ai geschrieben!",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "Hai",
+    "falsch": ["Hei"],
+    "tipp": "Der Fisch im Meer wird mit ai geschrieben.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "Mai",
+    "falsch": ["Mei"],
+    "tipp": "Der Monat Mai schreibt sich mit ai."
+  },
+  {
+    "richtig": "Teich",
+    "falsch": ["Taich"],
+    "tipp": "Das kleine Gewässer schreiben wir mit ei."
+  },
+  {
+    "richtig": "Weide",
+    "falsch": ["Waide"],
+    "tipp": "Die Kuh steht auf der Weide mit ei."
+  },
+  {
+    "richtig": "Seile",
+    "falsch": ["Saile"],
+    "tipp": "Die dicken Stricke schreiben wir mit ei."
+  },
+  {
+    "richtig": "fehlen",
+    "falsch": ["felen"],
+    "tipp": "Das e wird lang gezogen, hier hilft das stumme Dehnungs-h."
+  },
+  {
+    "richtig": "dehnen",
+    "falsch": ["denen"],
+    "tipp": "Das e wird lang gesprochen – wir brauchen ein Dehnungs-h."
+  },
+  {
+    "richtig": "zähmen",
+    "falsch": ["zämen"],
+    "tipp": "Kommt von 'zahm' und behält das stumme Dehnungs-h."
+  },
+  {
+    "richtig": "feige",
+    "falsch": ["fauge", "faige"],
+    "tipp": "Das Wort hat ein ei in der Mitte."
+  },
+  {
+    "richtig": "Zahn",
+    "falsch": ["Zan"],
+    "tipp": "Das a wird lang gezogen, hier hilft das stumme Dehnungs-h."
+  },
+  {
+    "richtig": "ohne",
+    "falsch": ["one"],
+    "tipp": "Das o wird lang gesprochen – merk dir das stumme h!"
+  },
+  {
+    "richtig": "bohren",
+    "falsch": ["boren"],
+    "tipp": "Wir bohren ein Loch mit einem Dehnungs-h nach dem o."
+  },
+  {
+    "richtig": "Ohr",
+    "falsch": ["Or"],
+    "tipp": "Das Ohr zum Hören hat ein stummes h nach dem O."
+  },
+  {
+    "richtig": "Uhr",
+    "falsch": ["Ur"],
+    "tipp": "Die Uhr zeigt die Zeit und braucht ein stummes h."
+  },
+  {
+    "richtig": "Jahr",
+    "falsch": ["Jar"],
+    "tipp": "Ein ganzes Jahr schreiben wir mit einem Dehnungs-h."
+  },
+  {
+    "richtig": "Hahn",
+    "falsch": ["Han"],
+    "tipp": "Der Hahn auf dem Bauernhof kräht mit Dehnungs-h."
+  },
+  {
+    "richtig": "zahm",
+    "falsch": ["zam"],
+    "tipp": "Ein Tier, das nicht wild ist, ist zahm – mit h geschrieben."
+  },
+  {
+    "richtig": "Sohn",
+    "falsch": ["Son"],
+    "tipp": "Der Sohn hat ein langes o, also folgt ein Dehnungs-h."
+  },
+  {
+    "richtig": "Stuhl",
+    "falsch": ["Stul"],
+    "tipp": "Wir sitzen auf einem Stuhl mit stummem h."
+  },
+  {
+    "richtig": "Fahrt",
+    "falsch": ["Fart"],
+    "tipp": "Kommt von 'fahren' – das Dehnungs-h bleibt im Wort stecken."
+  },
+  {
+    "richtig": "Gefahr",
+    "falsch": ["Gefar"],
+    "tipp": "Auch in Gefahr steckt das lange a mit dem Dehnungs-h."
+  },
+  {
+    "richtig": "fröhlich",
+    "falsch": ["frölich"],
+    "tipp": "Kommt von 'Frohsinn' und hat ein verstecktes Dehnungs-h."
+  },
+  {
+    "richtig": "herrschen",
+    "falsch": ["herschen"],
+    "tipp": "Der Herr herrscht. Das e ist kurz -> Doppel-r!"
+  },
+  {
+    "richtig": "wirres",
+    "falsch": ["wires"],
+    "tipp": "Kurzes i!"
+  },
+  {
+    "richtig": "starren",
+    "falsch": ["staren"],
+    "tipp": "Achtung! Der Star ist ein Vogel. Jemandem anstarren hat ein kurzes a -> rr."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "zerren",
+    "falsch": ["zeren", "zärren"],
+    "tipp": "Das e wird kurz gesprochen, gefolgt von zwei r."
+  },
+  {
+    "richtig": "sperren",
+    "falsch": ["speren"],
+    "tipp": "Kurzes e bedeutet: Wir sperren mit zwei r zu."
+  },
+  {
+    "richtig": "Karre",
+    "falsch": ["Kare"],
+    "tipp": "Die Schubkarre hat ein kurzes a -> Doppel-r."
+  },
+  {
+    "richtig": "grollen",
+    "falsch": ["grolen"],
+    "tipp": "Das o wird kurz gesprochen, also schreiben wir zwei l."
+  },
+  {
+    "richtig": "Schiene",
+    "falsch": ["Schine"],
+    "tipp": "Das i wird lang gesprochen, also schreiben wir ie."
+  },
+  {
+    "richtig": "Biene",
+    "falsch": ["Bine"],
+    "tipp": "Langes i wird im Deutschen meistens als ie geschrieben."
+  },
+  {
+    "richtig": "Ziege",
+    "falsch": ["Zige"],
+    "tipp": "Hör genau hin: Das i wird lang gezogen -> ie."
+  },
+  {
+    "richtig": "fliegen",
+    "falsch": ["fligen"],
+    "tipp": "Das i ist lang gezogen, also schreiben wir ein ie."
+  },
+  {
+    "richtig": "wiegen",
+    "falsch": ["wigen"],
+    "tipp": "Die Waage wiegt mit einem langen i -> ie."
+  },
+  {
+    "richtig": "biegen",
+    "falsch": ["bigen"],
+    "tipp": "Etwas krumm biegen schreiben wir mit ie."
+  },
+  {
+    "richtig": "Spiegel",
+    "falsch": ["Spigel"],
+    "tipp": "Wir schauen in den Spiegel mit einem langen ie."
+  },
+  {
+    "richtig": "Stiefel",
+    "falsch": ["Stifel"],
+    "tipp": "Der Schuh für den Winter hat ein langes i -> ie."
+  },
+  {
+    "richtig": "Wiese",
+    "falsch": ["Wise"],
+    "tipp": "Auf der grünen Wiese wächst Gras mit ie."
+  },
+  {
+    "richtig": "Riese",
+    "falsch": ["Rise"],
+    "tipp": "Der riesige Mann ist ein Riese mit ie."
+  },
+  {
+    "richtig": "Frieden",
+    "falsch": ["Friden"],
+    "tipp": "Das Wort Frieden hat ein langes i -> ie."
+  },
+  {
+    "richtig": "Krieg",
+    "falsch": ["Krig"],
+    "tipp": "Das i wird lang gesprochen, also schreiben wir ie am Ende."
+  },
+  {
+    "richtig": "Brief",
+    "falsch": ["Brif"],
+    "tipp": "Wir schreiben einen Brief mit ie."
+  },
+  {
+    "richtig": "Dieb",
+    "falsch": ["Dib"],
+    "tipp": "Der Dieb stiehlt heimlich – mit ie geschrieben."
+  },
+  {
+    "richtig": "gießen",
+    "falsch": ["giesen"],
+    "tipp": "Blumen gießen schreiben wir mit einem scharfen ß!",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "schießen",
+    "falsch": ["schiesen"],
+    "tipp": "Ein Tor schießen hat ein langes ie und ein ß.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "fließen",
+    "falsch": ["fliesen"],
+    "tipp": "Achtung! Die Fliesen liegen im Bad. Das Wasser 'fließt' mit ß.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "schließen",
+    "falsch": ["schliesen"],
+    "tipp": "Die Tür schließen schreiben wir mit ie und ß."
+  },
+  {
+    "richtig": "genießen",
+    "falsch": ["geniesen"],
+    "tipp": "Das Eis genießen schreiben wir mit ß."
+  },
+  {
+    "richtig": "verlassen",
+    "falsch": ["verlasen", "verlassen"],
+    "tipp": "Nach dem kurzen a folgen zwei s."
+  },
+  {
+    "richtig": "Klasse",
+    "falsch": ["Klase"],
+    "tipp": "In der Schule bist du in einer Klasse mit kurzem a -> ss."
+  },
+  {
+    "richtig": "Tasse",
+    "falsch": ["Tase"],
+    "tipp": "Das a ist kurz, also schreiben wir zwei s."
+  },
+  {
+    "richtig": "Masse",
+    "falsch": ["Mase"],
+    "tipp": "Eine riesige Menge ist eine Masse mit kurzem a -> ss."
+  },
+  {
+    "richtig": "Winkelgasse",
+    "falsch": ["Winkelgase"],
+    "tipp": "Achtung! Das Gas brennt. Eine kleine Straße ist eine Gasse mit ss."
+  },
+  {
+    "richtig": "kratzen",
+    "falsch": ["kratsen"],
+    "tipp": "Nach einem kurzen a schreiben wir tz."
+  },
+  {
+    "richtig": "Katze",
+    "falsch": ["Katse"],
+    "tipp": "Das a ist kurz, also folgt ein tz."
+  },
+  {
+    "richtig": "schmatzen",
+    "falsch": ["schmatsen"],
+    "tipp": "Beim Essen schmatzen hat ein kurzes a -> tz."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "Spatz",
+    "falsch": ["Spats"],
+    "tipp": "Der kleine Vogel heißt Spatz mit tz am Ende."
+  },
+  {
+    "richtig": "platzen",
+    "falsch": ["platsen"],
+    "tipp": "Der Luftballon platzt mit einem kurzen a und tz."
+  },
+  {
+    "richtig": "schwitzen",
+    "falsch": ["schwitsen"],
+    "tipp": "Das i wird kurz gesprochen, also schreiben wir tz."
+  },
+  {
+    "richtig": "Blitze",
+    "falsch": ["Blitse"],
+    "tipp": "Bei Gewitter sehen wir einen Blitz mit tz."
+  },
+  {
+    "richtig": "Hitze",
+    "falsch": ["Hitse"],
+    "tipp": "Im Sommer spüren wir die Hitze mit kurzem i -> tz."
+  },
+  {
+    "richtig": "Witze",
+    "falsch": ["Witse"],
+    "tipp": "Wir lachen über einen Witz mit tz."
+  },
+  {
+    "richtig": "sitzen",
+    "falsch": ["sitsen"],
+    "tipp": "Auf dem Stuhl sitzen schreiben wir mit tz."
+  },
+  {
+    "richtig": "flitzen",
+    "falsch": ["flitsen"],
+    "tipp": "Schnell rennen heißt flitzen – mit tz geschrieben."
+  },
+  {
+    "richtig": "stützen",
+    "falsch": ["stütsen"],
+    "tipp": "Sich mit den Armen stützen hat ein kurzes ü -> tz."
+  },
+  {
+    "richtig": "Pfütze",
+    "falsch": ["Pfütse"],
+    "tipp": "Achtung! Am Anfang steht ein schwieriges Pf, danach folgt tz."
+  },
+  {
+    "richtig": "Mütze",
+    "falsch": ["Mütse"],
+    "tipp": "Auf dem Kopf tragen wir eine Mütze mit tz."
+  },
+  {
+    "richtig": "Nutzung",
+    "falsch": ["Nutsung"],
+    "tipp": "Das u ist kurz, also schreiben wir tz."
+  },
+  {
+    "richtig": "Schmutz",
+    "falsch": ["Schmuts"],
+    "tipp": "Der Dreck ist Schmutz mit tz am Ende."
+  },
+  {
+    "richtig": "putzen",
+    "falsch": ["putsen"],
+    "tipp": "Die Zähne putzen schreiben wir mit tz."
+  },
+  {
+    "richtig": "schützen",
+    "falsch": ["schütsen"],
+    "tipp": "Sich vor Regen schützen hat ein kurzes ü -> tz."
+  },
+  {
+    "richtig": "Klotz",
+    "falsch": ["Klots"],
+    "tipp": "Ein schweres Stück Holz ist ein Klotz mit tz."
+  },
+  {
+    "richtig": "trotzen",
+    "falsch": ["trotsen"],
+    "tipp": "Das o wird kurz gesprochen -> tz."
+  },
+  {
+    "richtig": "glotzen",
+    "falsch": ["glotsen"],
+    "tipp": "In den Fernseher glotzen schreibt man mit tz."
+  },
+  {
+    "richtig": "baff",
+    "falsch": ["baf"],
+    "tipp": "Erstaunt sein heißt baff sein. Kurzes a -> ff."
+  },
+  {
+    "richtig": "schlaff",
+    "falsch": ["schlaf"],
+    "tipp": "Müde und schlaff schreiben wir mit zwei f am Ende."
+  },
+  {
+    "richtig": "klaffen",
+    "falsch": ["klafen"],
+    "tipp": "Eine weit offene Wunde klafft mit zwei f."
+  },
+  {
+    "richtig": "straff",
+    "falsch": ["straf"],
+    "tipp": "Ein fest gezogenes Seil ist straff – mit Doppel-f am Ende."
+  },
+  {
+    "richtig": "griffig",
+    "falsch": ["grifig"],
+    "tipp": "Das i ist kurz, also folgen zwei f und die Endung -ig."
+  },
+  {
+    "richtig": "Kniff",
+    "falsch": ["Knif"],
+    "tipp": "Ein kluger Trick ist ein Kniff mit zwei f am Ende."
+  },
+  {
+    "richtig": "Schiff",
+    "falsch": ["Schif"],
+    "tipp": "Das große Schiff auf dem Meer hat ein Doppel-f."
+  },
+  {
+    "richtig": "Pfiff",
+    "falsch": ["Pfif"],
+    "tipp": "Denk an das Pf am Anfang und die zwei f am Ende."
+  },
+  {
+    "richtig": "Stoff",
+    "falsch": ["Stof"],
+    "tipp": "Die Kleidung ist aus Stoff mit zwei f am Ende."
+  },
+  {
+    "richtig": "Muffel",
+    "falsch": ["Mufel"],
+    "tipp": "Ein Morgenmuffel hat ein kurzes u -> zwei f."
+  },
+  {
+    "richtig": "krabbeln",
+    "falsch": ["krabeln"],
+    "tipp": "Das kleine Baby krabbelt mit einem kurzen a und zwei b."
+  },
+  {
+    "richtig": "Krabbe",
+    "falsch": ["Krabe"],
+    "tipp": "Das Tier am Strand ist eine Krabbe mit zwei b."
+  },
+  {
+    "richtig": "schrubben",
+    "falsch": ["schruben"],
+    "tipp": "Den Boden sauber schrubben schreibt man mit Doppel-b."
+  },
+  {
+    "richtig": "Ebbe",
+    "falsch": ["Äbbe"],
+    "tipp": "Muss man sich leider merken.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "wackeln",
+    "falsch": ["wakeln"],
+    "tipp": "Das a ist kurz, also schreiben wir ck."
+  },
+  {
+    "richtig": "Dackel",
+    "falsch": ["Dakel"],
+    "tipp": "Der kleine Hund heißt Dackel mit ck."
+  },
+  {
+    "richtig": "fackeln",
+    "falsch": ["fakeln"],
+    "tipp": "Die brennende Fackel schreibt man mit ck."
+  },
+  {
+    "richtig": "Fieber",
+    "falsch": ["Fieper", "Fieba"],
+    "tipp": "Wenn man krank ist, hat man Fieber mit einem b (nicht p)."
+  },
+  {
+    "richtig": "Sieb",
+    "falsch": ["Siep"],
+    "tipp": "In der Küche nutzen wir ein Sieb. Verlängere es: Siebe – mit b!"
+  },
+  {
+    "richtig": "Sack",
+    "falsch": ["Sak"],
+    "tipp": "Der schwere Sack hat ein kurzes a -> ck am Ende."
+  },
+  {
+    "richtig": "nicken",
+    "falsch": ["niken"],
+    "tipp": "Mit dem Kopf nicken schreiben wir mit ck."
+  },
+  {
+    "richtig": "lecken",
+    "falsch": ["leken"],
+    "tipp": "Das Eis lecken schreibt man mit einem ck."
+  },
+  {
+    "scoreFaktor": 1.5,
+    "richtig": "meckern",
+    "falsch": ["mekern", "mäckern"],
+    "tipp": "Wer viel schimpft, meckert mit einem ck."
+  },
+  {
+    "richtig": "Kuckuck",
+    "falsch": ["Kukuk"],
+    "tipp": "Der Vogel ruft Kuckuck – merk dir die zwei ck im Wort!",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "bücken",
+    "falsch": ["büken"],
+    "tipp": "Sich nach unten bücken schreibt man mit ck."
+  },
+  {
+    "richtig": "Puppe",
+    "falsch": ["Pupe"],
+    "tipp": "Das u ist kurz, also folgen zwei p."
+  },
+  {
+    "richtig": "Kappe",
+    "falsch": ["Kape"],
+    "tipp": "Die Mütze ist eine Kappe mit kurzem a -> Doppel-p."
+  },
+  {
+    "richtig": "Lappen",
+    "falsch": ["Lapen"],
+    "tipp": "Der Putzlappen hat ein kurzes a, also zwei p."
+  },
+  {
+    "richtig": "Klappe",
+    "falsch": ["Klape"],
+    "tipp": "Die Box hat eine Klappe mit Doppel-p."
+  },
+  {
+    "richtig": "treffen",
+    "falsch": ["trefen"],
+    "tipp": "Wir treffen Freunde mit einem kurzen e -> ff."
+  },
+  {
+    "richtig": "schrecken",
+    "falsch": ["schreken"],
+    "tipp": "Ein großer Schreck schreibt sich mit ck."
+  },
+  {
+    "richtig": "Waggon",
+    "falsch": ["Wagon"],
+    "tipp": "Der Eisenbahnwagen heißt Waggon und hat zwei g!",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "schmuggeln",
+    "falsch": ["schmugeln"],
+    "tipp": "Heimlich Sachen transportieren heißt schmuggeln – mit zwei g."
+  },
+  {
+    "richtig": "doppelt",
+    "falsch": ["dopelt"],
+    "tipp": "Zweifach heißt doppel – das o ist kurz, gefolgt von zwei p."
+  },
+  {
+    "richtig": "hoppeln",
+    "falsch": ["hopeln"],
+    "tipp": "Der Hase hoppelt mit zwei p durchs Gras."
+  },
+  {
+    "richtig": "Koppel",
+    "falsch": ["Kopel"],
+    "tipp": "Die Pferdewiese ist eine Koppel mit kurzem o -> pp."
+  },
+  {
+    "richtig": "Moos",
+    "falsch": ["Mos"],
+    "tipp": "Im Wald wächst das grüne Moos mit einem doppelten o!",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "Boot",
+    "falsch": ["Bot"],
+    "tipp": "Wir fahren auf dem See mit einem Boot – mit Doppel-o geschrieben.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "Zoo",
+    "falsch": ["Zo"],
+    "tipp": "Im Zoo sehen wir Tiere. Man schreibt es hinten mit zwei o."
+  },
+  {
+    "richtig": "Beere",
+    "falsch": ["Bere", "Bäre"],
+    "tipp": "Die Erdbeere schmeckt süß und hat ein doppeltes e."
+  },
+  {
+    "richtig": "Meer",
+    "falsch": ["Mer", "Mär"],
+    "tipp": "Das große Wasser ist das Meer mit zwei e."
+  },
+  {
+    "richtig": "Teer",
+    "falsch": ["Ter"],
+    "tipp": "Die schwarze Straße hat Teer mit Doppel-e."
+  },
+  {
+    "richtig": "Schnee",
+    "falsch": ["Schne"],
+    "tipp": "Im Winter fällt weißer Schnee mit zwei e am Ende."
+  },
+  {
+    "richtig": "Klee",
+    "falsch": ["Kle"],
+    "tipp": "Der Glücksklee hat vier Blätter und zwei e am Ende."
+  },
+  {
+    "richtig": "Idee",
+    "falsch": ["Ide", "Ideh"],
+    "tipp": "Ein toller Einfall ist eine Idee – mit Doppel-e am Ende."
+  },
+  {
+    "richtig": "Ameisenarmee",
+    "falsch": ["Ameisename", "Ameisenamee"],
+    "tipp": "Achtung! Deine zwei 'Arme' haben ein e. Die Soldaten sind eine 'Armee' mit zwei e.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "Kaffee",
+    "falsch": ["Kafe", "Kaffe"],
+    "tipp": "Ein ganz schwieriges Wort: Zwei f in der Mitte und zwei e am Ende!",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "bitten",
+    "falsch": ["biten"],
+    "tipp": "Ich bitte dich um Hilfe. Kurzes i -> zwei t."
+  },
+  {
+    "richtig": "drittens",
+    "falsch": ["dritens", "drittäns"],
+    "tipp": "Das Wort drittens kommt von drei und hat zwei t."
+  },
+  {
+    "richtig": "Kitt",
+    "falsch": ["Kit"],
+    "tipp": "Die klebrige Masse am Fenster ist Kitt mit zwei t am Ende."
+  },
+  {
+    "richtig": "Ritt",
+    "falsch": ["Rit"],
+    "tipp": "Der Ausritt auf dem Pferd schreibt sich am Ende mit tt."
+  },
+  {
+    "richtig": "Schritt",
+    "falsch": ["Schrit"],
+    "tipp": "Jeder Schritt beim Gehen hat am Ende zwei t."
+  },
+  {
+    "richtig": "Schnitt",
+    "falsch": ["Schnit"],
+    "tipp": "Ein Schnitt mit der Schere schreibt sich mit tt."
+  },
+  {
+    "richtig": "Spott",
+    "falsch": ["Spot"],
+    "tipp": "Jemanden auslachen heißt Spott treiben – mit zwei t."
+  },
+  {
+    "richtig": "Motte",
+    "falsch": ["Mote"],
+    "tipp": "Das kleine Insekt ist eine Motte mit Doppel-t."
+  },
+  {
+    "richtig": "Flotte",
+    "falsch": ["Flote"],
+    "tipp": "Viele Schiffe zusammen sind eine Flotte mit tt."
+  },
+  {
+    "richtig": "Schrott",
+    "falsch": ["Schrot"],
+    "tipp": "Der alte Müll ist Schrott mit zwei t am Ende."
+  },
+  {
+    "richtig": "Gott",
+    "falsch": ["Got"],
+    "tipp": "Das o wird kurz gesprochen, also schreiben wir zwei t."
+  },
+  {
+    "richtig": "Kutte",
+    "falsch": ["Kute"],
+    "tipp": "Der lange Mantel des Mönchs ist eine Kutte mit tt."
+  },
+  {
+    "richtig": "Ratte",
+    "falsch": ["Rate"],
+    "tipp": "Achtung! Eine 'Rate' beim Bezahlen hat ein t. Das Tier ist eine 'Ratte' mit tt.",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "raten",
+    "falsch": ["ratten"],
+    "tipp": "Ratespiel oder Rattespiel?",
+    "scoreFaktor": 1.5
+  },
+  {
+    "richtig": "Matte",
+    "falsch": ["Mate"],
+    "tipp": "Die Fußmatte vor der Tür hat zwei t."
+  },
+  {
+    "richtig": "glatt",
+    "falsch": ["glat"],
+    "tipp": "Eis im Winter ist glatt – mit tt am Ende geschrieben."
+  },
+  {
+    "richtig": "satt",
+    "falsch": ["sat"],
+    "tipp": "Wenn wir keinen Hunger mehr haben, sind wir satt mit zwei t."
+  },
+  {
+    "richtig": "Platte",
+    "falsch": ["Plate"],
+    "tipp": "Die Tischplatte hat ein kurzes a -> zwei t."
+  }
+]

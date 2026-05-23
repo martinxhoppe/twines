@@ -105,6 +105,10 @@ var LZString=function(){var r=String.fromCharCode,o="ABCDEFGHIJKLMNOPQRSTUVWXYZa
 		<div id="init-loading"><div>Loading&hellip;</div></div>
 	</div>
 	<tw-storydata name="SugarCube" startnode="1" creator="Twine" creator-version="2.12.0" format="SugarCube" format-version="2.37.3" ifid="78F148A4-F34C-4A45-8012-5AB586998364" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript">document.documentElement.setAttribute('lang', 'de');
+var noTranslateMeta = document.createElement('meta');
+noTranslateMeta.name = "google";
+noTranslateMeta.content = "notranslate";
+document.head.appendChild(noTranslateMeta);
 // 1. WORTSCHATZ INITIALISIEREN & LADEN
 setup.wortschatz = [];
 
@@ -239,6 +243,13 @@ window.feuerwerk = function() {
     margin: 0 0 15px 0;
     opacity: 1 !important;
     animation: none !important;
+}
+.antwort-buttons button {
+    font-size: 1.5em !important;     /* Schrift dezent größer */
+    padding: 10px 20px !important;   /* Mehr Klickfläche im Button */
+    min-width: 200px;                /* Verhindert winzige Buttons bei kurzen Wörtern */
+    cursor: pointer;
+	margin-bottom: 20px !important; /* Abstand nach unten vergrößern */    
 }
 &lt;/style&gt;
 
